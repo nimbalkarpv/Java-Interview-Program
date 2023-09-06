@@ -21,10 +21,10 @@
 3.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/pattern2.java)
 					
 ```
-        * * * * *
-	*       *
-	*       *
-	* * * * *
+* * * * *
+*       *
+*       *
+* * * * *
 ```
 4.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/pattern3.java)
 
