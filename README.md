@@ -10,3 +10,11 @@
 	11 12 13 14 15 
 	16 17 18 19 20 21
  ```
+2.Write a java program to print following pattern [ [Solution] ](InterviewProgram/pattren1.java)
+
+```
+   * * * * *
+   * * * * *
+   * * * * *
+   * * * * *
+```
