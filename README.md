@@ -105,3 +105,13 @@
 6 5 
 6
 ```
+13.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/sspattern5.java)
+
+```
+6 
+6 5 
+6 5 4 
+6 5 4 3 
+6 5 4 3 2 
+6 5 4 3 2 1 
+```
