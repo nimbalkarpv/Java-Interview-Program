@@ -95,7 +95,7 @@
 5 5 5 5 5 
 6 6 6 6 6 6
 ```
-12.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spattern4.java)
+12.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spattern5.java)
 
 ```
 6 5 4 3 2 1 
