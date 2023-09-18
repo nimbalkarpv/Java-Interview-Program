@@ -1,5 +1,15 @@
 package pattern;
 
+/*
+
+6 
+6 5 
+6 5 4 
+6 5 4 3 
+6 5 4 3 2 
+6 5 4 3 2 1 
+*/
+
 public class sspattern5 {
 
 	public static void main(String[] args) {
