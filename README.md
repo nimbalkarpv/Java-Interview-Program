@@ -1,4 +1,6 @@
 # Java-Interview-Program
+# Array Based Program
+1.Calculate the average of given array. [ [Solution] ]
 # Pattern Questions
 1.Write a Program to print Floyd's triangle?[ [Solution] ](InterviewProgram/pattren12.java)
 
