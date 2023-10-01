@@ -117,3 +117,43 @@
 6 5 4 3 2 
 6 5 4 3 2 1 
 ```
+14.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spattern7.java)
+
+```
+1 2 3 4 5 6 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+1 2 3 4 5 6 
+```
+15.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spattern8.java)
+
+```
+1 2 3 4 5 6 
+  2 3 4 5 6 
+    3 4 5 6 
+      4 5 6 
+        5 6 
+          6 
+        5 6 
+      4 5 6 
+    3 4 5 6 
+  2 3 4 5 6 
+1 2 3 4 5 6
+```
+16.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spatternmis1.java)
+
+```
+1 2 3 4 5 6 
+ 2 3 4 5 6 
+  3 4 5 6 
+   4 5 6 
+    5 6 
+     6 
+```
