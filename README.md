@@ -167,3 +167,13 @@
 5 4 3 2 1 
 6 5 4 3 2 1
 ```
+18.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spattern10.java)
+
+```
+1 
+1 0 
+1 0 1 
+1 0 1 0 
+1 0 1 0 1 
+1 0 1 0 1 0 
+```
