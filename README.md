@@ -178,6 +178,8 @@
 1 0 1 0 1 0 
 ```
 50.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern50.java)
+
+```
 1 
 2 2 
 3 3 3 
