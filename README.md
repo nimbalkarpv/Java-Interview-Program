@@ -177,6 +177,16 @@
 1 0 1 0 1 
 1 0 1 0 1 0 
 ```
+28.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/spattern28.java)
+
+```
+A B C D E F 
+B C D E F 
+C D E F 
+D E F 
+E F 
+F  
+```
 45.Write a java program to print following pattern.[ [Solution] ](InterviewProgram/Pattern/pattern45.java)
 ```
  * * * * * 
